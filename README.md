@@ -28,8 +28,8 @@ Below is a list of powerful features included in this script:
 
 Optimized for 2025 Windows: Built with the newest updates for Windows 11 and beyond, ensuring zero lag and
 maximum compatibility. 😉
--Free and Easy: No hidden fees or complications - just download, run, and play! ✅
-*Expect bug fixes and speed improvements for seamless 2025 gaming.
+1. Free and Easy: No hidden fees or complications - just download, run, and play! ✅
+2. Expect bug fixes and speed improvements for seamless 2025 gaming.
 
 ## Step-by-Step Download Guide for Windows 2025
 1. Check Your System: Ensure you're on Windows 11 or later (2025 edition). Update your OS if needed via Settings
